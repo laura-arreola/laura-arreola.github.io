@@ -2,9 +2,12 @@
   "meta": {
     "username": "laura-arreola",
     "repositoryName": "laura-arreola.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": "laura-arreola.com"
   },
+  "site": {},
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
