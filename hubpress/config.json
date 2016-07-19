@@ -5,7 +5,12 @@
     "branch": "master",
     "cname": "laura-arreola.com"
   },
-  "site": {},
+  "site": {
+    "title": "Laura Arreola's Blog",
+    "description": "This is my blog.",
+    "logo": "https://s-media-cache-ak0.pinimg.com/236x/16/9e/63/169e63d7cda3ebf2ed49ce271cf4671c.jpg",
+    "cover": "http://www.svcontact.nl/wp-content/uploads/2015/03/vintage-maps-hd-wallpaper-18.jpg"
+  },
   "socialnetwork": {},
   "theme": {
     "name": "saga"
